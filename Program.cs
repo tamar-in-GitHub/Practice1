@@ -7,7 +7,7 @@
 
 
 
-            Console.WriteLine("Hello, World tamar1,2!");
+            Console.WriteLine("Hello, World tamar1,2,3,4,5,6!");
 
         }
     }
